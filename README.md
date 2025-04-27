@@ -7,5 +7,5 @@
 | isael            | Charlie | Venezuela  |
 | Yoselin Rada     | Delta   | Venezuela  |
 | Klever Hernandez | Echo    | Venezuela  |
-| SsJp26           | Foxs    | Venezuela  |
+| Juan Portes      | Foxs    | Venezuela  |
 
